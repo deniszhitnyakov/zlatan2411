@@ -307,7 +307,7 @@ fotbollsspelare genom tiderna. Han är känd som en cocky person, som går rakt 
             if(url('?pixel')) Cookies.set('pixel', url('?pixel'), {expires: 30});
 
          var n = $.urlParam('n');
-         var link = ('https://' + location.hostname + '/' + location.pathname).replace('blog.html', '') + 'land/thanks.html';
+         var link = 'land/?domain=' + ('https://' + location.hostname + '/' + location.pathname).replace('blog.html', '') + 'land/thanks.html';
          if (n) {
             link = decodeURIComponent(escape(window.atob(n)))
             // console.log(link)
